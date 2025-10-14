@@ -1,1 +1,0 @@
-introdução de estudo do curso Dev Python com códigos simples
