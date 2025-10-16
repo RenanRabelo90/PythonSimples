@@ -49,7 +49,8 @@ print(f"Inception está na lista? {check_movie("Inception")}")
 recommend_movie = lambda movie_name: f"Recomendo assistir {movie_name} com média de {average_rating(movie_name):.2f}"
 #print(f"{recommend_movie("Titanic")}")
 
+# Função que mostra filmes com média de nota acima de 8.5
 print("\n--- Filmes Altamente Recomendados (Média > 8.5) ---")
-for movie in movie_list:
-    if average_rating(movie) > 8.5:
-        print(recommend_movie(movie))
+for movie_name in movie_list:
+    if average_rating(movie_name) > 8.5:
+        print(recommend_movie(movie_name))
