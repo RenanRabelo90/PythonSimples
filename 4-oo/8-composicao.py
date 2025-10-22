@@ -49,4 +49,3 @@ studio.evaluate_studio_quality()
 
 for game in studio.games:
     game.technical_sheet()
-    
