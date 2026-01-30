@@ -1,0 +1,8 @@
+Nome: Renan 
+Endereço: Rua Jorge 1 
+Telefone: 1234
+
+Nome: Rodrigo 
+Endereço: Rua Severino 2 
+Telefone: 1243
+
